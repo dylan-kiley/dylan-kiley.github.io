@@ -1,6 +1,6 @@
 ---
 title: "Dylan Kiley"
-image: "DSIP-6-3-24_366 copy.jpg"
+image: "dylan.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/dylan-kiley/"
