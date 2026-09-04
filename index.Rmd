@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-I am a recent￼ Health Sciences graduate of The Ohio State University with a strong interest in pharmacoepidemiology and health outcomes research. I am particularly interested in learning how to leverage machine learning and other advanced analytic methods to better understand how medications perform in the real world. My long-term goal is to pursue a PhD in Epidemiology and contribute to evidence-based strategies that improve drug safety and effectiveness.
+I am a recent Health Sciences graduate of The Ohio State University with a strong interest in pharmacoepidemiology and health outcomes research. I am particularly interested in learning how to leverage machine learning and other advanced analytic methods to better understand how medications perform in the real world. My long-term goal is to pursue a PhD in Epidemiology and contribute to evidence-based strategies that improve drug safety and effectiveness.
 
 ## Education
 
