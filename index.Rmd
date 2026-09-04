@@ -1,40 +1,33 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Dylan Kiley"
+image: "DSIP-6-3-24_366 copy.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/dylan-kiley/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/dylan-kiley"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:dkiley1@jh.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a recent￼ Health Sciences graduate of The Ohio State University with a strong interest in pharmacoepidemiology and health outcomes research. I am particularly interested in learning how to leverage machine learning and other advanced analytic methods to better understand how medications perform in the real world. My long-term goal is to pursue a PhD in Epidemiology and contribute to evidence-based strategies that improve drug safety and effectiveness.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Sc.M. in Epidemiology | June 2026 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
+**The Ohio State University** | Columbus, OH
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Health Sciences | August 2023 - May 2026
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**The Ohio State University College of Medicine** | Research Assistant | November 2024 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Johns Hopkins Bloomberg School of Public Health** | Summer Research Intern | June 2025 - July 2025
